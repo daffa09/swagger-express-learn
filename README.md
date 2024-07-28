@@ -2,6 +2,10 @@
 
 this is just a simple project to learn how to use swagger with express, also you need nodejs installed in your machine to run this project and nvm version 20.0.0 or higher.
 
+This is the example picture of the documentation
+![image](https://github.com/user-attachments/assets/e4c06ead-0641-4135-8778-dafb731234b4)
+
+
 how to use it
 
 1. clone this respository
